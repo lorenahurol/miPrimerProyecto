@@ -1,1 +1,2 @@
 1. Diseño UX
+2. Vanilla JS
